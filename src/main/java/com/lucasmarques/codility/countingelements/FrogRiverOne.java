@@ -1,4 +1,4 @@
-package com.lucasmarques.codility;
+package com.lucasmarques.codility.countingelements;
 
 import java.util.HashSet;
 import java.util.Set;

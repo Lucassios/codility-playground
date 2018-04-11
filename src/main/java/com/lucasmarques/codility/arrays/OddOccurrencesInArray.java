@@ -1,4 +1,4 @@
-package com.lucasmarques.codility;
+package com.lucasmarques.codility.arrays;
 
 import java.util.Arrays;
 

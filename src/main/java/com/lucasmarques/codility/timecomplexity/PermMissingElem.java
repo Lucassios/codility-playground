@@ -1,4 +1,4 @@
-package com.lucasmarques.codility;
+package com.lucasmarques.codility.timecomplexity;
 
 import java.util.Arrays;
 

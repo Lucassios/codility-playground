@@ -1,4 +1,4 @@
-package com.lucasmarques.codility;
+package com.lucasmarques.codility.iterations;
 
 /**
  * Created by lucascmarques on 31/01/17.
